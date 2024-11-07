@@ -8,8 +8,8 @@ Databases: SQL Server
 Other: AWS, Google Cloud
 
 ### 🚀 Projects
-### 📊 Tableau: [Airbnb Data Graphing](https://github.com/Brianjzh/Airbnb-Data-Vancouver-Analysis-Tableau)
-Using Python and Tableau, I conducted an in-depth analysis of Airbnb listings to uncover key trends and insights about hosts, pricing, and guest satisfaction. Visualizations and key findings were presented in an interactive Tableau dashboard.
+### 📊 Tableau: [BSR Insurance Employee Analysis Graphing](https://github.com/Brianjzh/BSR-Case-Analysis-Tableau) 
+Using Tableau I conducted an in-depth analysis of employee retention at BSR Insurance, focusing on factors such as employee level, remote work, age, and salary. Using Tableau, we visualized trends in employee performance, intent to stay, and salary discrepancies. Our findings highlighted key challenges faced by BSR in retaining junior employees and remote workers. We presented recommendations for improving employee retention, including salary adjustments, career development programs, and refining health initiatives.
 
 ### 🔍 R Programming: [Airbnb Data Analysis Project](https://github.com/Brianjzh/airbnb-data-analysis)
 This project is an in-depth analysis of Airbnb listings and reviews data. Using R and key libraries like `dplyr` and `ggplot2`, I performed data merging, missing data analysis, and statistical testing. The project also explores host acceptance rates, neighborhood trends, and guest satisfaction ratings through data visualization and hypothesis testing.
