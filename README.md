@@ -8,7 +8,7 @@ Databases: SQL Server
 Other: AWS, Google Cloud
 
 ### 🚀 Projects
-### 📊 Tableau: [BSR Insurance Employee Analysis Graphing](https://github.com/Brianjzh/BSR-Case-Analysis-Tableau) 
+### 📊 Tableau: [BSR Insurance Employee Analysis](https://github.com/Brianjzh/BSR-Case-Analysis-Tableau) 
 Using Tableau I conducted an in-depth analysis of employee retention at BSR Insurance, focusing on factors such as employee level, remote work, age, and salary. Using Tableau, we visualized trends in employee performance, intent to stay, and salary discrepancies. Our findings highlighted key challenges faced by BSR in retaining junior employees and remote workers. We presented recommendations for improving employee retention, including salary adjustments, career development programs, and refining health initiatives.
 
 ### 🔍 R Programming: [Airbnb Data Analysis Project](https://github.com/Brianjzh/airbnb-data-analysis)
