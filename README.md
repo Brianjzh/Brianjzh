@@ -11,7 +11,7 @@ Other: AWS, Google Cloud
 ### 📊 Tableau: [BSR Insurance Employee Analysis](https://github.com/Brianjzh/BSR-Case-Analysis-Tableau) 
 Using Tableau I conducted an in-depth analysis of employee retention at BSR Insurance, focusing on factors such as employee level, remote work, age, and salary. Using Tableau, we visualized trends in employee performance, intent to stay, and salary discrepancies. Our findings highlighted key challenges faced by BSR in retaining junior employees and remote workers. We presented recommendations for improving employee retention, including salary adjustments, career development programs, and refining health initiatives.
 
-### 🔍 R Programming: [Capital Bike Share Machine Learning Model](https://github.com/Brianjzh/Capital-Bike-Share-Analysis)
+### 🔍 R Programming: [Capital Bike Share Analysis and Machine Learning Model](https://github.com/Brianjzh/Capital-Bike-Share-Analysis)
 This project applies machine learning techniques to analyze Capital Bike Share data using R. Leveraging the caret package, I built and tuned predictive models to forecast ridership (cnt) based on environmental and seasonal factors. The workflow included data preprocessing, feature engineering with polynomial terms for non-linear relationships, and model evaluation using cross-validation. Key libraries such as dplyr, ggplot2, and broom were used for data manipulation and visualization.
 
 ### 🎥 Python: [Netflix Ratings Analysis by Genre](https://github.com/Brianjzh/netflix-genre-ratings)
