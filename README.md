@@ -14,7 +14,7 @@ Using Tableau I conducted an in-depth analysis of employee retention at BSR Insu
 ### 🔍 R Programming: [Canterra Analysis of Employee Attrition Using AI/Machine Learning](https://github.com/Brianjzh/Canterra-Attrition-Proposal)
 This project uses machine learning techniques to analyze employee attrition at Canterra. Leveraging R and predictive modeling, I developed and evaluated logistic regression, decision tree, bagged tree, and random forest models to uncover the key factors driving turnover. The analysis included data preprocessing, feature engineering, and addressing class imbalance to enhance model accuracy. Variables such as age, income, tenure, and job satisfaction were analyzed to identify at-risk employees and propose actionable retention strategies. Key libraries such as caret, randomForest, and ggplot2 were used for model development, evaluation, and visualization, ensuring a comprehensive and data-driven approach to reducing employee turnover.
 
-### 🎥 Python: [Netflix Ratings Analysis by Genre](https://github.com/Brianjzh/netflix-genre-ratings)
+### 🎥 Python: [Netflix Ratings Analysis by Genre](https://github.com/Brianjzh/Netflix-Rating-V-Genre)
 This project investigates how the genre of movies and TV shows impacts ratings and popularity votes across platforms like IMDb and TMDb. Using Python and Pandas, I explored genre-specific trends to determine if certain genres are more likely to be successful.
 
 ### 🎯 What I'm Currently Working On
