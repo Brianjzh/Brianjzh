@@ -1,5 +1,5 @@
 👋 Hello! Welcome to My GitHub Profile
-I'm Brian Zhang, a passionate data scientist/business analyst/software developer who thrives on solving complex problems through data and technology. Currently pursuing a Master of Science in Business Analytics (MSBA) from Georgetown University, I have a deep interest in working within the government or defense industries, as well as a strong commitment to advancing non-profit education initiatives.
+I'm Brian Zhang, a passionate data scientist/business analyst/software developer who thrives on solving complex problems through data and technology. Currently pursuing a Master of Science in Business Analytics (MSBA) from Georgetown University, I have a deep interest in machine learning and artificial intelligence, as well as a strong commitment to advancing non-profit education initiatives.
 
 ### 🔧 Technologies & Tools I Use
 Languages: Python, R, MySQL, SQL, 
